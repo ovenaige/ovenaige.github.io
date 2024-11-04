@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovenaige.github.io/Evb/sitemap_index.txt
+Sitemap: https://ovenaige.github.io/QDh/sitemap_index.txt
+Sitemap: https://ovenaige.github.io/gMA/sitemap_index.txt
+Sitemap: https://ovenaige.github.io/mJT/sitemap_index.txt
